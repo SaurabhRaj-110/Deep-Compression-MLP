@@ -184,6 +184,10 @@ GPU (CUDA) is used automatically if available.
 
 ---
 
+## Team - SaurabhRaj-110 & Saloni-0908
+
+---
+
 ## License
 
 This project is for educational and research purposes.
